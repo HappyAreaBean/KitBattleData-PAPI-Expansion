@@ -4,7 +4,7 @@
 [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/HappyAreaBean/KitBattleData-PAPI-Expansion?include_prereleases&label=latest%20beta&style=for-the-badge)](https://github.com/HappyAreaBean/KitBattleData-PAPI-Expansion/releases) 
 [![GitHub release (latest by date)](https://img.shields.io/github/downloads/HappyAreaBean/KitBattleData-PAPI-Expansion/latest/total?label=Downloads%40Latest&style=for-the-badge)](https://github.com/HappyAreaBean/KitBattleData-PAPI-Expansion/releases)
 
-**PlaceholderAPI Expansion that allows you to ping servers for information**
+**PlaceholderAPI Expansion that allows you to show player top stats in KitBattle**
 
 **Required [KitBattle Advanced](https://www.spigotmc.org/resources/kitbattle-advanced.2872/) and [PlaceholderAPI](https://www.spigotmc.org/resources/placeholderapi.6245/) plugin to work.** (Of course, you need it)
 
